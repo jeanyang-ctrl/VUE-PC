@@ -40,25 +40,25 @@ git clone https://github.com/jeanyang-ctrl/VUE-.git
 
 ## 小程序演示
 
-![image-20201108153249729](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108153249729.png)
+![image-20201108153249729](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108153249729.png)
 
 <figure class="third">
 
-​    ![image-20201108153444513](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108153444513.png)
+​    ![image-20201108153444513](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108153444513.png)
 
-![image-20201108153505811](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108153505811.png)
+![image-20201108153505811](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108153505811.png)
 
-![image-20201108153520827](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108153520827.png)
+![image-20201108153520827](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108153520827.png)
 
-![image-20201108153542205](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108153542205.png)
+![image-20201108153542205](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108153542205.png)
 
-![image-20201108153557141](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108153557141.png)</figure>
+![image-20201108153557141](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108153557141.png)</figure>
 
 
 
 ## 实现功能
 
-![image-20201108152821220](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\images\image-20201108152821220.png)
+![image-20201108152821220](D:\web\vue电商项目资料包\vue电商项目-day08-资料包\code\vue_shop\src\assets\images\image-20201108152821220.png)
 
 - [x] 用户登录
 - [x] 退出登录
