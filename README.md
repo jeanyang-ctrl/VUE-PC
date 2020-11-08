@@ -32,7 +32,7 @@
 git clone https://github.com/jeanyang-ctrl/VUE-.git
 ```
 
-代码下载后，用vscode打开后即可使用，包括开发阶段的模块和运行阶段的模块。
+代码下载后，用vscode打开后运行npm i 下载node-modules，这里用的是本地的数据库，所以一些数据展示可在readme文档可以初览。
 
 
 ## 
